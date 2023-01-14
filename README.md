@@ -21,10 +21,13 @@
 * Run the test suite with `bundle exec rspec`.
 * Run your development server with `rails s` to see the app in action.
 
-## Visit our Little Esty Shop:point_left:
+## :point_right:Visit our Little Esty Shop:point_left:
 * Welcome page: https://morning-bastion-73697.herokuapp.com/
 * Admin Dashboard: https://morning-bastion-73697.herokuapp.com/admin/
 * Merchant Dashboard: http://localhost:3000/merchants/1/dashboard
+
+## :spiral_notepad:Project Board
+* https://trello.com/b/CKzZgZID/little-esty-shop-group-project
 
 ## Phases
 
